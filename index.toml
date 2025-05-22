@@ -105,8 +105,18 @@ file = "config/yosbr/options.txt"
 hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "bc152bd80888c6e54544a034c8d50d9b6e6672d4dd271f6a363153b21f9e5f3d"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "9b03ac06c46425ce5ca421db6c3f59c0999ec1a47e0b660fce80504dc8210fac"
 metafile = true
 
 [[files]]
@@ -132,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "a95312f747d56e561bb2332f0c03f08842cde88d7d832d05b8b61ca50cc40b64"
 metafile = true
 
 [[files]]
@@ -162,6 +177,21 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "fd522c425b7dd722dcd7a1d5785829ff9f12c67a1907b51d8731bd0ac5984a3a"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
+file = "mods/chalk-colorful-addon.pw.toml"
+hash = "96ddaae016a3fa6eecb88d9e8ad6f0e15dbd856bae9f8380a091b2316b7a9f6b"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "6813cfc18a8812f00b3f6a7c5d01a02828b109d8c394f2c1b01bd5960c241120"
 metafile = true
 
 [[files]]
@@ -230,6 +260,11 @@ hash = "7c5ae4adfb514315d9abb8c4e3f19601948731622b765cab939d7cf1e5c633f1"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a5bce60eb3d4feced5e0e932c53e2dfa5257722b8bd5f1ac3aba99411263b00d"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "388df4ab2982231cf7a48aad40a24629793c874a34c0877f450c20d9ca8e118f"
 metafile = true
@@ -237,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc_minecraft.pw.toml"
 hash = "f6da6284ac6f36fdfc2632ae1371c58b97004df27b6350591061574d4ef80201"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "355f7aba91cf0254f726370c779091f431e535597ff10c4c684685f5d7ef5c65"
 metafile = true
 
 [[files]]
@@ -257,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4226109ff7491da71a7069f0de5896034cf6f0daeb4ad05b131f4292f8d7568c"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "a040440fdacaffc001ae9ac8ed7cebb63afa826cde599f618dcac35115bc57ef"
 metafile = true
 
 [[files]]
@@ -322,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "ce32d8b4c3dce5b957678b6db62316ad998d20b39bf1d5d0a9110fc390296d69"
+metafile = true
+
+[[files]]
+file = "mods/haunted-harvest.pw.toml"
+hash = "fabf4ed8d01903b79db5df5e11452062dc2fddcf331a80a58bc1167bc35fafae"
 metafile = true
 
 [[files]]
@@ -415,6 +465,11 @@ hash = "aa7ff76d0495f39d0450670705c35c11d9064630dfd2fbbae590f306f0c3e1f9"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "6f87736c28a1b45e2800f35231ecd39aee46af955138f5aa7ece0dbfb9edba0e"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "b2dcec48393d038cab99a528aa76f3d50255e6ac9e1e0a7fa6062ecc44d780a2"
 metafile = true
@@ -442,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "13a6776b6e17d32a8dcc74932ce4af8b13290b1c90fe4c91b41abbd2b2c0d569"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
 
 [[files]]
@@ -505,6 +565,11 @@ hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
 metafile = true
 
 [[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "bc1eb877b0c777b75be5854f53c4856c7c9afa65b1910f05cbe7ed43ac8e4a10"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "629fa5d882a949f68dfbbeda45e799a15b5c452da4cefbde933c996e63beb716"
 metafile = true
@@ -517,6 +582,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7f6c4ffee6dfcfef116339acce3d45359a544cf5ae2731371ba8ba87195e3e69"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "671673705155f40631b70d1cfada87ce5e90eeec15753adcdb5768eb534cc112"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "a76e0eeae97561681a46739c2bbd79b257bdbc0fdbe730856f17c087ac0be7b9"
 metafile = true
 
 [[files]]
@@ -542,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "85008c4db17b1bd6603dd92f39ce0c243b0405f2136a090079519137be59c90b"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
