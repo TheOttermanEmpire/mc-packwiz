@@ -1,0 +1,13 @@
+name = "Vegan Delight"
+filename = "VeganDelightFabric-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Na8nA0jA/versions/gSf2iuR1/VeganDelightFabric-1.4.1.jar"
+hash-format = "sha1"
+hash = "c598555acaa64a2ce36f0394d55b2e28e7a87c04"
+
+[update]
+[update.modrinth]
+mod-id = "Na8nA0jA"
+version = "gSf2iuR1"
