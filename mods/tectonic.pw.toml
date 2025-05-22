@@ -1,0 +1,13 @@
+name = "Tectonic"
+filename = "tectonic-3.0.0+beta4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/SWDOp7uu/tectonic-3.0.0%2Bbeta4.jar"
+hash-format = "sha1"
+hash = "c2f9c8f9d181e812ce5cfa08c626201a0fa89880"
+
+[update]
+[update.modrinth]
+mod-id = "lWDHr9jE"
+version = "SWDOp7uu"
