@@ -265,6 +265,11 @@ hash = "4f917fdd8207f6d52ab51ed86a23517eaf336bad48963c4bad05d6d233a2c2f5"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "f3b03f70ace792c105a4a6f62adc509ea6f2c4dd915eaa92184753aea0bf89dd"
+metafile = true
+
+[[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "6501e582c96ed5783a706c8b6faf34bb6d040a787f807c182383d7e014848341"
 metafile = true
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "56a8ace464a5e8e51e42698a335c6be71c47932cb23392a368aebe66c1486daf"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
