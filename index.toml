@@ -135,8 +135,18 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "ce9ffbe43febde9316a5264f9bc8250fe77de948485949251067d12ad6fe4b9a"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "29851a92b833e1a0ef49a9c0705cba6a7dd63b3b537b5bfed64c3fc363d05284"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
 metafile = true
 
 [[files]]
@@ -150,6 +160,11 @@ hash = "a95312f747d56e561bb2332f0c03f08842cde88d7d832d05b8b61ca50cc40b64"
 metafile = true
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
 metafile = true
@@ -157,11 +172,6 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "55dafb40b64b7a4b426035f51c050685189070e50aaaf66fe76b9e16a60e57fd"
-metafile = true
-
-[[files]]
-file = "mods/bl4cks-sit.pw.toml"
-hash = "cececdd6c8b1b3ebe9907176ec8eb9510ccfde9b1bcfc7f05f92383867ae216e"
 metafile = true
 
 [[files]]
@@ -215,11 +225,6 @@ hash = "e5e861687931e1dfd6931d075014544b8b5a0455f494185d0d8a70f7770f5727"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "a5c89c1401ef2d93208756a5848a7d8c5869e9d41ef23a81a89c10c0f62890f1"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
@@ -227,6 +232,21 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "2ed1bf766612ceb0db818d696d3f2d6dd7a7a276d4f3000226d43602e0b38d75"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "20b927814945569eaf2828479e02e4706d7012e742a010c75283f2b614b238b1"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "e7d221b358df5e92e6f7138624813c10210bcd3f5fd09b647ce08a051f50bc5f"
 metafile = true
 
 [[files]]
@@ -242,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "33dd378a7f5fea00272cd663d8ca33af66be20801778a668a51b636440366fc6"
+metafile = true
+
+[[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
 metafile = true
 
 [[files]]
@@ -365,6 +390,11 @@ hash = "6501e582c96ed5783a706c8b6faf34bb6d040a787f807c182383d7e014848341"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "bbe6dfe76d6fd42096d860f1141b06ae51a3adb7cad068fc0d3b8a795a92ce84"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "ce32d8b4c3dce5b957678b6db62316ad998d20b39bf1d5d0a9110fc390296d69"
 metafile = true
@@ -380,6 +410,11 @@ hash = "56a8ace464a5e8e51e42698a335c6be71c47932cb23392a368aebe66c1486daf"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "3dff7afe1547c769dc62c85ddb7c7959bce8b8f4068b7619260368630ab37821"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
@@ -392,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "80cb432d61b86f1ba592fb5b4fcc614cb9209b9826653e902f83eac7ae1cab73"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "727974dcf1669e218ba5ba312054695ccb7fbd0cbd24e4fcd26bcdeafda91ff2"
 metafile = true
 
 [[files]]
@@ -437,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "f55d3feb4d1609d5567258dba90fbb583e6ee827aa32aa1cd2b9281dd1a0b614"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "cd1e54a0717ec21306365b8a87869bfad2afb694d273c83367eac9028775ae8d"
 metafile = true
 
 [[files]]
@@ -542,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "dad19a95e37f413b1df1175389432e57ed4bd6a14f5aeb5b548b6c56e9de1278"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "d42fb790b6faf6f05f8f48319dd3db79e795c77a6568adfbf38ccf289736ad35"
 metafile = true
 
 [[files]]
@@ -746,4 +796,24 @@ metafile = true
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "99430f1b4de5554bbf72d07d53f75c6d2b02a170b95de379092f1d0ae7b6eb9d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "51a4dc3de2f4e3155ceab68ef8cd1c612d17cf3f302a2930a4631283eba1c9d0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "45e192e6437641dae538fffeefb798fb7086bf32f9d263f7ba0a31323e80b2e4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "31a556b016efbadaa2a84c88d1b79fd71d94ad4303d7e5c4a1874698ba3ea58e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "6f9997fbb4e0d09e5ae0726ff9b8313a438d8d27416b275837237730eda9b2c2"
 metafile = true
