@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "579a10ebeb959931e675e8e64aae48a8093f26e8a4374a7fd93abf6ecf6bfcef"
+hash = "08c34e76cc45673ac8274dd0156d46dcadf05867eae652f22fb0f400bfefd39c"
 metafile = true
 
 [[files]]
