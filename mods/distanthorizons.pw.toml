@@ -11,3 +11,7 @@ hash = "57a3a0105c51fdeb7d4a79a35cd8a16586917cf4"
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "vSDePnsB"
+
+[option]
+optional = true
+description = "For potato PCs turn this off."
