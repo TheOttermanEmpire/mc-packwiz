@@ -359,11 +359,6 @@ hash = "7818ed58aadfada879f1add348ef08d0ce41c16c079f3bde89aeafd9cdc4aea5"
 metafile = true
 
 [[files]]
-file = "mods/e4mc_minecraft.pw.toml"
-hash = "f6da6284ac6f36fdfc2632ae1371c58b97004df27b6350591061574d4ef80201"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "355f7aba91cf0254f726370c779091f431e535597ff10c4c684685f5d7ef5c65"
 metafile = true
