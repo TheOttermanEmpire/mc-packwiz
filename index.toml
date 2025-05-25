@@ -179,11 +179,6 @@ hash = "bc152bd80888c6e54544a034c8d50d9b6e6672d4dd271f6a363153b21f9e5f3d"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "9b03ac06c46425ce5ca421db6c3f59c0999ec1a47e0b660fce80504dc8210fac"
-metafile = true
-
-[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "5accd2e36c1a55de10e18c2b6b0ddf02bc7dc930d11a974c87f84a3573f75dc6"
 metafile = true
@@ -221,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "a95312f747d56e561bb2332f0c03f08842cde88d7d832d05b8b61ca50cc40b64"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "3c9575df506c2514c9c5e162c55dc5d5ff4a85bc50baf0c71ccbb5fe8a5105bc"
 metafile = true
 
 [[files]]
@@ -386,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "a040440fdacaffc001ae9ac8ed7cebb63afa826cde599f618dcac35115bc57ef"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
 
 [[files]]
@@ -704,6 +709,11 @@ hash = "d390c88ec2ad5cce30c4a3ad18aeb1199bd3559b3b70b5fdbd9da2c12e698116"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "f24b49462f01bc80f7054b5dba4ba13308926a28759f410b2bbd41812960fc30"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
@@ -741,6 +751,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-coal.pw.toml"
 hash = "e0e0618b0b605a75079e831abee8b2378aa106b7abebfffd2fc4e4db5b5601b6"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "de95d7c4cc724a13d9d8e86f9f44eb04ff33d836c0fd3525d562dc47b251f21f"
 metafile = true
 
 [[files]]
