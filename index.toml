@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "ad8fea4b99d440c0c0d687c5e5097bfdd799c6a5d34dcbf52f16993e78f83690"
+hash = "40afe95d3a193637e8247a8df3758ce87af98fe4676cb6d163110350275aa298"
 metafile = true
 
 [[files]]
@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "a3233ed3d18ff529f48cd609e1b6dd879559769c5f2d2d30d8b247bd34bf1a7b"
+hash = "5d465be261e6aeeb18c1cf9329e2f0d56245bbe0dd10f2561b7ae9cad53d9ef1"
 metafile = true
 
 [[files]]

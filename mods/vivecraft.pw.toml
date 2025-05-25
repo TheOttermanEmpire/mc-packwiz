@@ -11,7 +11,3 @@ hash = "72409877baca40c2ae186385ab9234dc3fa0404f"
 [update.modrinth]
 mod-id = "wGoQDPN5"
 version = "9Sa2NEEb"
-
-[option]
-optional = true
-description = "This may not work with everything."
