@@ -359,6 +359,11 @@ hash = "7818ed58aadfada879f1add348ef08d0ce41c16c079f3bde89aeafd9cdc4aea5"
 metafile = true
 
 [[files]]
+file = "mods/easiervillagertrading.pw.toml"
+hash = "961317cadee1513d9ef400f292a1696b489c3acf4f689cbb52746b153ce06ecc"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "355f7aba91cf0254f726370c779091f431e535597ff10c4c684685f5d7ef5c65"
 metafile = true
@@ -536,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/languagereload.pw.toml"
 hash = "4f1a39dd6cf8978a0323b45fbc7504a2fd3c5d15b1f081265e1f75e4c5132e9a"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "d7c03a9a61a81693732b6ae275f63ee63aa97def2e511be48b740e03c4f34a17"
 metafile = true
 
 [[files]]
@@ -759,6 +769,11 @@ hash = "de95d7c4cc724a13d9d8e86f9f44eb04ff33d836c0fd3525d562dc47b251f21f"
 metafile = true
 
 [[files]]
+file = "mods/trading-post.pw.toml"
+hash = "ab79382da2352224ee41d8ccdb8b207ecd5b3cb1b6e63815297263fb32b54945"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "85008c4db17b1bd6603dd92f39ce0c243b0405f2136a090079519137be59c90b"
 metafile = true
@@ -800,12 +815,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c14a2c8d1d1ee116fac633256631c2b8c0febe0238108fb35b19021d6edc4df3"
+hash = "89864963c7699127ad608d4e2b96b0010fd1635b0538576b0b58787f7eb7db3d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "577f94e5be86eadb5dc21f2fb92a4b2acee2a5cd6c8d7f9903a02ee3f7076a49"
+hash = "717ac9c2d74bf077e7a086cda4c71b59a9484922fde9a0fed2acb913693f01a9"
 metafile = true
 
 [[files]]
