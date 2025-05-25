@@ -165,6 +165,10 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
+file = "config/yosbr/config/villagernames/customnames.txt"
+hash = "02b41a1d79306b01813c76ae470ad4d672fba9087c0417a750cc57ffdd6b1d6d"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
