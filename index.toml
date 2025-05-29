@@ -178,6 +178,11 @@ hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "75df667bf44ea3d1272430e259339d69f55db196d0d42d2baf60ada15ef18f3b"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "bc152bd80888c6e54544a034c8d50d9b6e6672d4dd271f6a363153b21f9e5f3d"
 metafile = true
@@ -190,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "cb3ac21c560aa9a80fbddf4731664e6ebc5f75583416bdc5be4401cd3d6f2fcb"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
@@ -225,11 +235,6 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "3c9575df506c2514c9c5e162c55dc5d5ff4a85bc50baf0c71ccbb5fe8a5105bc"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
 
 [[files]]
@@ -373,6 +378,11 @@ hash = "355f7aba91cf0254f726370c779091f431e535597ff10c4c684685f5d7ef5c65"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "73323b708304a194d6ecdca4f477887898686a6f309f8cc053bc50fed1b703e5"
+metafile = true
+
+[[files]]
 file = "mods/enhancedblockentities.pw.toml"
 hash = "abac7fa35a6bd77c59fe23d31ffa4f31d09421fdfd0bf137dca9701142e17322"
 metafile = true
@@ -390,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4226109ff7491da71a7069f0de5896034cf6f0daeb4ad05b131f4292f8d7568c"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "4f4abd0055da9716f9cde9bf1ea1866c14a71c4d3330769b24da86254a2ae7b9"
 metafile = true
 
 [[files]]
@@ -443,6 +458,11 @@ hash = "515fa38276d6194d04e920ee1248d98e1d96287c1037efb2ce9989080f2830c6"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "ef0244ab3f2bca1037aa385382f78032fce0cf3c1836f77c6268a4cb37dbb823"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "10cb7ae191440b474e74c7c9fb263c4745c4247dfec3cc5cb04c7b5c6c06ee58"
 metafile = true
@@ -480,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/haunted-harvest.pw.toml"
 hash = "fabf4ed8d01903b79db5df5e11452062dc2fddcf331a80a58bc1167bc35fafae"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "0c834a933a2ff246cf07d630a2de85a2a6235322d53b5da65747699f12a6ba8f"
 metafile = true
 
 [[files]]
@@ -523,13 +548,18 @@ hash = "12183bb89186d0e65f0f03aca20a93eb542a5f173862872be9f4030e9aac2b1d"
 metafile = true
 
 [[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "d2fb9aba12d1c0bafcde37bc71ca679d10630386b01f235ea7ed651093c2905f"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "7e60ec08ec7f5158d5e185f4451c076b833d0252d9a67a4d8c6f4c8bd41e49bf"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a1d48cedcbb9151db74d7fd44ac448d0f23c15796f419b8397189699447b9f3b"
+hash = "a7432c31cbf07b8e95fe8440d295cb9ffa8b967218ef5ee909e6263ad5afead0"
 metafile = true
 
 [[files]]
@@ -633,8 +663,18 @@ hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "9ddc3eedab474db23c8b0c3e7c2beb538ad95762da69fe68d512c681d98fa76e"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "5ce2f4ca8c22e9bd1def9f669d7ce1b4f61ed7fcbea57c8678f97239f8f8d94c"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "13a6776b6e17d32a8dcc74932ce4af8b13290b1c90fe4c91b41abbd2b2c0d569"
 metafile = true
 
 [[files]]
@@ -658,6 +698,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/panorama.pw.toml"
+hash = "64be809716552eed8cbec547262ffbd25fca700f411205332a7c0461a336a58c"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
@@ -678,6 +723,11 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "34f6e18ce54e6e0879f2cd2ca0e6332550d0b8aaf3c2c2ba1e7f2a9bd1eeb490"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "d42fb790b6faf6f05f8f48319dd3db79e795c77a6568adfbf38ccf289736ad35"
 metafile = true
@@ -690,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
 
 [[files]]
@@ -919,6 +974,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "31a556b016efbadaa2a84c88d1b79fd71d94ad4303d7e5c4a1874698ba3ea58e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "a5a576fb8dbf84fccb857a6ee24bec12f4b3781672a24a5fe4bfa51f124496b7"
 metafile = true
 
 [[files]]
