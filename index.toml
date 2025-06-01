@@ -323,6 +323,11 @@ hash = "2ed1bf766612ceb0db818d696d3f2d6dd7a7a276d4f3000226d43602e0b38d75"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "b9b0f502aaba52cf3fd2667d58e9b1d9d6f9be44d39f0afeafe14bc8ab4f0cdf"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
@@ -775,6 +780,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "86573af88ee3403e8da7b0909abef70c9efd63e7bdde0ecc68231b304976b57f"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "7919292812735c467c7339cc99bc5c2ebf3e76116f256e1592b198c1744e651a"
 metafile = true
 
 [[files]]
