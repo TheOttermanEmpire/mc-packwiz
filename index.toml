@@ -213,6 +213,11 @@ hash = "ce9ffbe43febde9316a5264f9bc8250fe77de948485949251067d12ad6fe4b9a"
 metafile = true
 
 [[files]]
+file = "mods/autowhitelist.pw.toml"
+hash = "c3e4b9dfcf8b1a75ca19028b08e978a4d02635499cbf1c63f2368acd96ff0187"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "29851a92b833e1a0ef49a9c0705cba6a7dd63b3b537b5bfed64c3fc363d05284"
 metafile = true
@@ -320,11 +325,6 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "2ed1bf766612ceb0db818d696d3f2d6dd7a7a276d4f3000226d43602e0b38d75"
-metafile = true
-
-[[files]]
-file = "mods/craterlib.pw.toml"
-hash = "b9b0f502aaba52cf3fd2667d58e9b1d9d6f9be44d39f0afeafe14bc8ab4f0cdf"
 metafile = true
 
 [[files]]
@@ -780,11 +780,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "86573af88ee3403e8da7b0909abef70c9efd63e7bdde0ecc68231b304976b57f"
-metafile = true
-
-[[files]]
-file = "mods/sdlink.pw.toml"
-hash = "7919292812735c467c7339cc99bc5c2ebf3e76116f256e1592b198c1744e651a"
 metafile = true
 
 [[files]]
