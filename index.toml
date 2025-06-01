@@ -213,11 +213,6 @@ hash = "ce9ffbe43febde9316a5264f9bc8250fe77de948485949251067d12ad6fe4b9a"
 metafile = true
 
 [[files]]
-file = "mods/autowhitelist.pw.toml"
-hash = "c3e4b9dfcf8b1a75ca19028b08e978a4d02635499cbf1c63f2368acd96ff0187"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "29851a92b833e1a0ef49a9c0705cba6a7dd63b3b537b5bfed64c3fc363d05284"
 metafile = true
@@ -360,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "a9942fa7146fc5bf23a2fe04df3445a30a15416dcd05d9d5296c0bfe34683ae6"
 metafile = true
 
 [[files]]
