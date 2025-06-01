@@ -18,7 +18,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "1e3bfff7bce1f6d8170eafedcf8a3668c1b0f36018e4eb6c61e3180dc57abfe5"
+hash = "e51a69ab060ac1e216ed07ee6c9e8a6b07870f9e7082127ca350cceac602caf7"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
