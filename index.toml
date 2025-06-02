@@ -872,6 +872,11 @@ hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "de89d4ffd14c02db24f737055f1f11b784bcb98e7e826efa4bc2329a962b4ba5"
+metafile = true
+
+[[files]]
 file = "mods/tiny-coal.pw.toml"
 hash = "e0e0618b0b605a75079e831abee8b2378aa106b7abebfffd2fc4e4db5b5601b6"
 metafile = true
