@@ -386,11 +386,6 @@ hash = "9326ad2077287f079ab68743e5d597af75bf7f166927079fcfa7545fc86c4cd5"
 metafile = true
 
 [[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "422cc3ea4b34aea69a84479e69320157dac1ce82ed6deeafdf25780d911e0ad9"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "40afe95d3a193637e8247a8df3758ce87af98fe4676cb6d163110350275aa298"
 metafile = true
