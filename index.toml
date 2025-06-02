@@ -73,6 +73,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "37c3d5cf244219f896e4495992184fd84c0ff1c4be20a3e7671f1051bce4a032"
 
 [[files]]
+file = "config/splashchanger.json"
+hash = "9398d5e8f82de87b9b72fcea5d96b5a482066415a351d31d62c6dfe6fedc7f56"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -839,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/splash-changer.pw.toml"
+hash = "da4ad49fee8e763653476b4eb1cf2c20ef0f33bae8b374b1b45526ee33b46564"
 metafile = true
 
 [[files]]
